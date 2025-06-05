@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\pro1\\pro1.csproj": {}
+    "C:\\Users\\User\\dotnet_new_Web\\pro1\\pro1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\pro1\\pro1.csproj": {
+    "C:\\Users\\User\\dotnet_new_Web\\pro1\\pro1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\pro1\\pro1.csproj",
+        "projectUniqueName": "C:\\Users\\User\\dotnet_new_Web\\pro1\\pro1.csproj",
         "projectName": "pro1",
-        "projectPath": "C:\\Users\\User\\Desktop\\pro1\\pro1.csproj",
+        "projectPath": "C:\\Users\\User\\dotnet_new_Web\\pro1\\pro1.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\pro1\\obj\\",
+        "outputPath": "C:\\Users\\User\\dotnet_new_Web\\pro1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
